@@ -1,0 +1,6 @@
+{
+  "name": "Ustai.kz",
+  "description": "Мұғалімдерге арналған жасанды интеллект көмекшісі және оқу материалдарын автоматты түрде жасау платформасы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
